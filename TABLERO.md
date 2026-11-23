@@ -11,6 +11,7 @@ Tablero Kanban del equipo. Los límites de trabajo en proceso (WIP) se respetan 
 | [#2 HU-02 · Buscar café y consultar existencias](https://github.com/desanchezgr/Proyecto-quinto/issues/2) | Historia | 24 h |
 | [#3 Validar precio y stock en el formulario de publicación](https://github.com/desanchezgr/Proyecto-quinto/issues/3) | Tarea | 4 h |
 | [#4 Mostrar la etiqueta «Agotado» cuando el stock es cero](https://github.com/desanchezgr/Proyecto-quinto/issues/4) | Tarea | 4 h |
+| [#5 Pruebas de aceptación de HU-01 y HU-02](https://github.com/desanchezgr/Proyecto-quinto/issues/5) | Tarea | 6 h |
 
 ## En desarrollo (máx. 2)
 
@@ -22,13 +23,13 @@ Tablero Kanban del equipo. Los límites de trabajo en proceso (WIP) se respetan 
 
 | Tarjeta | Tipo | Estimación |
 |---|---|---|
-| [#5 Pruebas de aceptación de HU-01 y HU-02](https://github.com/desanchezgr/Proyecto-quinto/issues/5) | Tarea | 6 h |
+| [#6 Documentación base y repositorio de la Fase I](https://github.com/desanchezgr/Proyecto-quinto/issues/6) | Tarea | 8 h |
 
 ## Terminado
 
 | Tarjeta | Tipo | Evidencia |
 |---|---|---|
-| [#6 Documentación base y repositorio de la Fase I](https://github.com/desanchezgr/Proyecto-quinto/issues/6) | Tarea | Documentos en `docs/`, README, tablero y etiqueta v0.1 |
+| — | — | Aún no hay tarjetas terminadas en este sprint |
 
 ## Columnas vivas (issues filtrados)
 
