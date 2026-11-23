@@ -15,7 +15,7 @@ El sistema permite que un productor publique un lote con su precio por libra y s
 | Repositorio de GitHub | https://github.com/desanchezgr/Proyecto-quinto |
 | Etiqueta v0.1 | https://github.com/desanchezgr/Proyecto-quinto/releases/tag/v0.1 |
 | Tablero | https://github.com/desanchezgr/Proyecto-quinto/blob/main/TABLERO.md |
-| Pull request revisado | Pendiente |
+| Pull request revisado | https://github.com/desanchezgr/Proyecto-quinto/pull/7 |
 
 ## Documentación de la Fase I
 
