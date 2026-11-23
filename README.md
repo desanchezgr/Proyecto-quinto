@@ -11,6 +11,6 @@ Marketplace agrícola desarrollado por Derki, Yostin Ruiz y Santiago.
 | Elemento | Enlace |
 |---|---|
 | Repositorio de GitHub | https://github.com/desanchezgr/Proyecto-quinto |
-| Etiqueta v0.1 | Pendiente: enlace a la etiqueta del commit de entrega |
+| Etiqueta v0.1 | https://github.com/desanchezgr/Proyecto-quinto/releases/tag/v0.1 |
 | Tablero | Pendiente: enlace directo al tablero compartido |
 | Pull request revisado | Pendiente: enlace al PR con aprobación de otro integrante |
